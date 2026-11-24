@@ -1,0 +1,2 @@
+# Los scripts de shell deben tener saltos de línea LF para ejecutarse en Mac/Linux
+*.sh text eol=lf
